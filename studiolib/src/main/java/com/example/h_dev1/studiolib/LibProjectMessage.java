@@ -14,6 +14,6 @@ public class LibProjectMessage {
 
     public String getMessage() {
 
-        return "Message from LibProject " + this.msg;
+        return "Message from LibProject : " + this.msg;
     }
 }
